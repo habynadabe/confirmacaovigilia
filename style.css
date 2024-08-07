@@ -1,3 +1,5 @@
 * {
     background-image: url(./img/confirmacao.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
